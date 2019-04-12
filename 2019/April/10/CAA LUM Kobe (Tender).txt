@@ -1,0 +1,37 @@
+#############################################################
+CAA LUM KOBE (TENDER) Errors: 
+
+Data Collection lasted for 3 minutes and 26.4 seconds.
+Error checking completed within 10 minutes and 28.2 seconds.
+Finished checking on Wednesday, 10. April 2019 09:16PM 
+#############################################################
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Missing Yor:
+No issues
+-------------------------------------------------------------
+No Yor Image:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

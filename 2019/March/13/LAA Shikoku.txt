@@ -1,0 +1,28 @@
+#############################################################
+LAA SHIKOKU Errors: 
+
+Data Collection lasted for 3 minutes and 41.0 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 13. March 2019 02:34PM 
+#############################################################
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+110403371,
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+110412852,
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Missing Yor:
+No issues
+-------------------------------------------------------------
+No Yor Image:
+No issues
+-------------------------------------------------------------

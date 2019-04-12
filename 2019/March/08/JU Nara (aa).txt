@@ -1,0 +1,28 @@
+#############################################################
+JU NARA (AA) Errors: 
+
+Data Collection lasted for 6 minutes and 3.6 seconds.
+Error checking completed within 43.3 seconds.
+Finished checking on Friday, 08. March 2019 11:51PM 
+#############################################################
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+110273871,
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Missing Yor:
+No issues
+-------------------------------------------------------------
+No Yor Image:
+No issues
+-------------------------------------------------------------

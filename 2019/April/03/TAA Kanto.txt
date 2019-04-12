@@ -1,0 +1,41 @@
+#############################################################
+TAA KANTO Errors: 
+
+Data Collection lasted for 3 minutes and 34.8 seconds.
+Error checking completed within 4 minutes and 25.2 seconds.
+Finished checking on Wednesday, 03. April 2019 11:25PM 
+#############################################################
+No Foto On Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Missing Yor:
+No issues
+-------------------------------------------------------------
+No Yor Image:
+110947057, 110886424, 
+
+Shuppin: 
+
+10017, 9701, 
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

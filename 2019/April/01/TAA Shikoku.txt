@@ -1,0 +1,41 @@
+#############################################################
+TAA SHIKOKU Errors: 
+
+Data Collection lasted for 17 minutes and 3.8 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 01. April 2019 09:15PM 
+#############################################################
+No Foto On Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+110825676, 110870228, 
+
+Shuppin: 
+
+57, 128, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Missing Yor:
+No issues
+-------------------------------------------------------------
+No Yor Image:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

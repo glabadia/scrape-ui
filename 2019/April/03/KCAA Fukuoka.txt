@@ -1,0 +1,41 @@
+#############################################################
+KCAA FUKUOKA Errors: 
+
+Data Collection lasted for 2 minutes and 23.9 seconds.
+Error checking completed within 6 minutes and 6.4 seconds.
+Finished checking on Wednesday, 03. April 2019 11:16PM 
+#############################################################
+No Foto On Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+110921604, 110922277, 
+
+Shuppin: 
+
+3035, 4376, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Missing Yor:
+No issues
+-------------------------------------------------------------
+No Yor Image:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

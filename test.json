@@ -1,0 +1,87 @@
+({
+ "Vehicleid": "4",
+ "VehicleStatus": "",
+ "Comments": { "FNotes": "", "RearNotes": "", "InteriorNotes": "" },
+ "DeliveryPort": "",
+ "VesselName": "SANTA CATARINA (CTN)",
+ "VesselDepartureDate": "2019-02-23T00:00:00",
+ "VesselArrivalDate": "2019-04-08T00:00:00",
+ "VehicleMake": "Mazda",
+ "VehicleModel": "Axela",
+ "VehicleVariant": "20E",
+ "VehicleYear": 2010,
+ "VehicleDescription": "10-TBD Mazda Axela4",
+ "VehicleFeatures": "",
+ "VehicleOdometerReading": "139,000 KMS",
+ "VehicleTransmission": "Auto",
+ "VehicleEngineSize": "0",
+ "VehicleColour": "Gray",
+ "VehicleFuelType": "",
+ "VehicleChassisNumber": "BLEFP-104058",
+ "VehicleEngineNumber": "",
+ "VehicleAuctionGrade": "4",
+ "VehicleTireType": " ",
+ "VehicleDoors": " ",
+ "VehicleCategory": "",
+ "VehicleInteriorColor": "",
+ "VehicleInteriorType": " ",
+ "VehicleWheelType": "",
+ "VehicleAirbag": 0,
+ "VehicleDrive": " ",
+ "VehicleTickBoxData": {
+  "VehiclePowerSteering": "NO",
+  "VehicleAirConditioned": "NO",
+  "VehicleSunRoof": "NO",
+  "VehicleSpareTires": "NO",
+  "VehicleESC": "NO",
+  "VehiclePowerWindow": "NO"
+ },
+ "VehiclePhotosFront_large": "http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_F_Medium.jpeg",
+ "VehiclePhotosRear_large": "http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_R_Medium.jpeg",
+ "VehiclePhotosInterior_large": "http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_I_Medium.jpeg",
+ "VehiclePhotosFront_meduim": null,
+ "VehiclePhotosRear_meduim": null,
+ "VehiclePhotosInterior_meduim": null,
+ "VehiclePhotosFront_small": null,
+ "VehiclePhotosRear_small": null,
+ "VehiclePhotosInterior_small": null,
+ "FOBJPY": "JPY 0.00",
+ "NZDPrice": "NZ $ 5,700.00",
+ "FreightAndServices": "NZD 0.00",
+ "Compliance": "0",
+ "Others": "http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_1.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_2.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_3.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_4.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_5.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_6.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_7.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_8.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_9.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_10.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_11.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_12.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLEFP-104058_13.jpeg",
+ "GST": "Zero Rated",
+ "PhotoPath": null
+},
+{"Vehicleid":"6","Others":"http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_1.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_2.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_3.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_4.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_5.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_6.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_7.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_8.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_9.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_10.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_11.jpeg"
+},{"Vehicleid":"12","Others":"http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_1.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_2.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_3.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_4.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_5.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_6.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_7.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_8.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_9.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_10.jpeg, http://images2.autoterminal.co.nz/2019/01/08/BLFFW-103167_11.jpeg"
+
+},{"Vehicleid":"23","Others":"http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_1.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_2.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_3.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_4.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_5.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_6.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_7.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_8.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_9.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_10.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_11.jpeg, http://images2.autoterminal.co.nz/2019/01/10/NT31-016338_12.jpeg"
+
+},{"Vehicleid":"28","Others":"http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_1.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_2.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_3.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_4.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_5.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_6.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_7.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_8.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_9.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_10.jpeg, http://images2.autoterminal.co.nz/2019/01/10/GE8-1004365_11.jpeg"
+
+},{"Vehicleid":"33","Others":"http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_1.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_2.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_3.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_4.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_5.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_6.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_7.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_8.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_9.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_10.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC31S-101794_11.jpeg"
+
+},{"Vehicleid":"34","Others":"http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_1.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_2.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_3.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_4.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_5.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_6.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_7.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_8.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_9.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_10.jpeg, http://images2.autoterminal.co.nz/2019/01/11/BLEFW-108613_11.jpeg"
+
+},{"Vehicleid":"35","Others":"http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_1.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_2.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_3.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_4.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_5.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_6.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_7.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_8.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_9.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_10.jpeg, http://images2.autoterminal.co.nz/2019/01/11/ZC71S-575062_11.jpeg"
+
+},{"Vehicleid":"55","Others":"http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_1.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_2.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_3.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_4.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_5.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_6.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_7.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_8.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_9.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_10.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH5FS-200934_11.jpeg"
+
+},{"Vehicleid":"60","Others":"http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_1.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_2.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_3.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_4.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_5.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_6.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_7.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_8.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_9.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_10.jpeg, http://images2.autoterminal.co.nz/2019/01/11/GH2-040809_11.jpeg"
+
+},{"Vehicleid":"63","Others":"http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_1.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_2.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_3.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_4.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_5.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_6.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_7.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_8.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_9.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_10.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC21S-109244_11.jpeg"
+
+},{"Vehicleid":"74","Others":"http://images2.autoterminal.co.nz/2019/01/12/C11-106690_1.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_2.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_3.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_4.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_5.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_6.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_7.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_8.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_9.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_10.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_11.jpeg, http://images2.autoterminal.co.nz/2019/01/12/C11-106690_12.jpeg"
+
+},{"Vehicleid":"75","Others":"http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_1.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_2.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_3.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_4.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_5.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_6.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_7.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_8.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_9.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_10.jpeg, http://images2.autoterminal.co.nz/2019/01/12/ZC71S-451634_11.jpeg"
+
+},{"Vehicleid":"84","Others":"none"
+
+},{"Vehicleid":"149","Others":"http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_1.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_2.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_3.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_4.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_5.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_6.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_7.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_8.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_9.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_10.jpeg, http://images2.autoterminal.co.nz/2019/01/16/BKEP-209876_11.jpeg"
+
+},{"Vehicleid":"556","Others":"none"
+
+},{"Vehicleid":"649","Others":"http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_1.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_2.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_3.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_4.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_5.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_6.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_7.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_8.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_9.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_10.jpeg, http://images2.autoterminal.co.nz/2019/01/30/GP7-002912_11.jpeg"
+
+}

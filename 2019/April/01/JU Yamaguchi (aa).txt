@@ -1,0 +1,41 @@
+#############################################################
+JU YAMAGUCHI (AA) Errors: 
+
+Data Collection lasted for 4 minutes and 33.7 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 01. April 2019 07:46PM 
+#############################################################
+No Foto On Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+110894915, 110894971, 
+
+Shuppin: 
+
+1134, 6109, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Missing Yor:
+No issues
+-------------------------------------------------------------
+No Yor Image:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------
