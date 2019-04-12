@@ -60,17 +60,19 @@ def getImageFileSize(link):
 #         "http://img3.jcarinfo.net/gixlarge.php?&op=hFKqIaIKIagKIltNg5IqcltPLFU1g8GPLFDpgRn1LuTuIa3UIaItWZT*IaevIlt6COn*Cfd1MRXDif4HLbAn7SV8AYYqAS.AV8tch3XsMOGuCRUB&time=201903181740",
 #         "http://img0.jcarinfo.net/gixlarge.php?&altUrl=http://88.99.218.95/imgs/aKxY8utwMCwJGK2s2DLsoigf5jwE11l5G7rQpBjUrohl960YfHbs"]
 
-urls = ['http://idirect.ibcjapan.co.jp/images/idirect_nf_small.gif',
-        'http://idirect.ibcjapan.co.jp/images/idirect_nf_large.gif',
-        'http://img1.jcarinfo.net/gixlarge.php?&op=45KqIaIKIagKIltNg5IqcltPVA.97XdHCfVHLR3sImetWQe6IaIsImPFdlt6COn*Cfd1MRXDif4HLbAn7SV8AYYqAS.AV8tch3XsMOGuCRUB&time=201904021840']
+# urls = ['http://idirect.ibcjapan.co.jp/images/idirect_nf_small.gif',
+#         'http://idirect.ibcjapan.co.jp/images/idirect_nf_large.gif',
+#         'http://img1.jcarinfo.net/gixlarge.php?&op=45KqIaIKIagKIltNg5IqcltPVA.97XdHCfVHLR3sImetWQe6IaIsImPFdlt6COn*Cfd1MRXDif4HLbAn7SV8AYYqAS.AV8tch3XsMOGuCRUB&time=201904021840']
 
+urls_atnz = [
+    'http://auctions.autoterminal.co.nz/images/atnzauctions_nf_large.gif', 'http://auctions.autoterminal.co.nz/images/atnzauctions_nf_large.gif', 'http://auctions.autoterminal.co.nz/images/atnzauctions_nf_small.gif']
 
 # def getReq(link):
 #     resp = requests.head(link)
 #     return len(resp.text)
 
 
-for url in urls:
+for url in urls_atnz:
     # auctionsheet out of focus: 228
     print(getImageFileSize(url))
 
@@ -142,4 +144,4 @@ def testFetch():
     print(f"Data is: {stream}")
 
 
-testFetch()
+# testFetch()

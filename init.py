@@ -5,10 +5,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 from time import sleep, time
-from userlogin import userLogin, userLoginIdirect
+from userlogin import userLoginATNZ
 from search import searchFunc, auctionHouseClick, auctionHouseSearch, unselect_AH, open_dropdownbox, sorted_auction_search, active_AH_list, auctionHouse_webElement
 from results import expandVehicleInfoIdirect, retrieveInfoUpd, retrieveInfoDetail, expandButton, waitLoader
-from utils import printList, destructure, printDict, errorCheckUpd, createDirectory
+from utils import printList, destructure, printDict, createDirectory
 from traversePage import nextResults
 from dataScraping import getAllInfo
 from bs4_searchTags import bs4_search_elements, destruct_basic, destruct_adv
@@ -29,13 +29,8 @@ driver = webdriver.Firefox(
     executable_path=r"C:\Users\glabadia\Desktop\VS\selenium drivers\Firefox\geckodriver")
 driver.get(url)
 
-###
-# Main Process
-###
 
-# userLogin(username, passcode, driver)
-
-userLoginIdirect(username, passcode, driver)
+userLoginATNZ(username, passcode, driver)
 
 # open_dropdownbox(driver)
 # a = auctionHouseSearch(driver)
@@ -84,6 +79,7 @@ def sorted_AH_search(driver):
     open_dropdownbox(driver)
     not_first_run = False
     sorted_ah_list, web_element = sorted_auction_search(driver)
+    print(f"{sorted_ah_list}")
     for auction_house in sorted_ah_list:
         sleep(5)
         if not_first_run:
@@ -111,7 +107,8 @@ def search_active_AH(driver):
     open_dropdownbox(driver)
     not_first_run = False
     sorted, webElement = auctionHouse_webElement(driver)
-    print(f"{*sorted.items()}")
+    print(f"{sorted.items()}")
+    # print(f"{*sorted.items()}")
     for ah in sorted:
         sleep(5)
         if not_first_run:

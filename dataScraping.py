@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 from results import expandVehicleInfoIdirect, retrieveInfoUpd
-from utils import errorCheckUpd, printDict
+from utils import printDict
 from traversePage import nextResults
 from time import time, sleep
 import asyncio

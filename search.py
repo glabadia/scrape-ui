@@ -7,11 +7,12 @@ from time import sleep
 from errorCheck import hasNoResults
 from utils import printDict, convert_to_text, trimm_list, ah_table, trimm_list_v2, sorted_auctionHouses
 
-SLEEP_TIME: int = 10
+SLEEP_TIME: int = 20
 
 
 def open_dropdownbox(driver):
     buttonPath = "//span[@data-toggle='tooltip']//button"
+    # buttonPath = "//span[@data-toggle='tooltip']//button[@title='None selected']"
     auctionHouseButton = WebDriverWait(driver, SLEEP_TIME).until(
         EC.presence_of_element_located((By.XPATH, buttonPath)))
     auctionHouseButton.click()
@@ -108,24 +109,16 @@ def searchFunc(driver, chassisNum=""):
     '''
     One role: Clicks the search button
     '''
-    sleep(5)    # delay for 3 seconds to load more info
+    sleep(10)    # delay for 3 seconds to load more info
 
-    # ibcTextBoxPath = "input.form-control.IDVehicle.ibcnumber.isnumber"
-    # ibcTextBox = driver.find_element_by_css_selector(ibcTextBoxPath)
-    ibcTextBoxPath = "//div[@class='form-adjust width-61per']//input[@name='idvehicle']"
-    ibcTextBox = driver.find_element_by_xpath(ibcTextBoxPath)
-    ibcTextBox.clear()
-
-    if chassisNum:
-        ibcTextBox.send_keys(chassisNum)
-
-    # WebDriverWait(driver, EXPAND_WAIT_TIME).until(EC.presence_of_element_located((By.XPATH, expandPath)))
     try:
         searchPath = "//button[@class='btn btn-primary btn-search search']"
-        # searchButton = driver.find_element_by_xpath(searchPath)
         searchButton = WebDriverWait(driver, SLEEP_TIME).until(
             EC.presence_of_element_located((By.XPATH, searchPath)))
-        searchButton.click()
+        while searchButton:
+            searchButton.click()
+            searchButton = driver.find_element_by_xpath(searchPath)
+        print("Search button clicked!")
 
     except Exception as e:
         print(f"Search function failed..[{e}]")

@@ -34,3 +34,17 @@ def userLoginIdirect(un, pw, driver):
     driver.find_element_by_id("username").send_keys(un)
     driver.find_element_by_id("password").send_keys(pw)
     driver.find_element_by_id("login-command").click()
+
+
+def userLoginATNZ(un, pw, driver):
+    """
+    automates userLogin
+    """
+    # Chrome
+    # Firefox
+    username = "//input[@id='UserId']"
+    password = "//input[@id='Password']"
+
+    driver.find_element_by_xpath(username).send_keys(un)
+    driver.find_element_by_xpath(password).send_keys(pw)
+    driver.find_element_by_xpath(password).send_keys(u'\ue007')

@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 from time import sleep, time
-from utils import errorCheckUpd, printErrors, dictErrors, getAuctionHouse, printToFile, createDirectory, convert_time, createDirectory, errorCheck_ibc_shuppin, dictErrors_shuppin, printToFile_shuppin, errorCheckMoreInfo, dataVerification
+from utils import printErrors, dictErrors, getAuctionHouse, printToFile, createDirectory, convert_time, createDirectory,  dictErrors_shuppin, printToFile_shuppin, dataVerification
 from results import expandVehicleInfoIdirect, retrieveInfoTest, retrieveInfoUpd, retrieveInfoDetail, retrieveAllInfo
 
 from errorCheck import hasNoResults
@@ -45,7 +45,7 @@ def nextResults(webdriver):
         if not auctionHouseName:
             auctionHouseName = getAuctionHouse(webdriver)
 
-        if time() - startDC >= 300:
+        if time() - startDC >= 500:
             print("DC reached 3 minute limit")
             back_to_search(webdriver)
             break
@@ -58,10 +58,9 @@ def nextResults(webdriver):
             break
 
         startRetrieve = time()
-        # infoList.extend(retrieveInfoUpd(webdriver))
         retrievedInfo = retrieveAllInfo(webdriver)
         infoList.extend(retrievedInfo)
-        # print(retrievedInfo) #comment
+        # print(retrievedInfo)  # comment
         # addInfoList.extend(retrieveInfoDetail(webdriver))
         endRetrieve = time()
 

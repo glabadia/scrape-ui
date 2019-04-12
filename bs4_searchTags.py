@@ -34,8 +34,8 @@ def bs4_search_elements(driver):
             'img', attrs={'class', 'imgsize front-image-small'})
         print(main_img['src'])
 
-        ibcnum = basic.find('span', id=re.compile('^IBCNum')).text.strip()
-        print(ibcnum)
+        atnznum = basic.find('span', id=re.compile('^IBCNum')).text.strip()
+        print(atnznum)
 
         shuppin = basic.find('span', attrs={'id': 'shuppin'}).text.strip()
         print(shuppin)
@@ -103,25 +103,30 @@ def destruct_basic(driver):
         main_img = basic.find(
             'img', attrs={'class', 'imgsize front-image-small'})
 
-        ibcnum = basic.find('span', id=re.compile('^IBCNum')).text.strip()
+        atnznum = basic.find('span', id=re.compile('^ATNZNum')).text.strip()
 
         shuppin = basic.find('span', attrs={'id': 'shuppin'}).text.strip()
 
         yearMakeModel = basic.find(
-            'span', attrs={'class': 'text-bold pull-left width-55per'}).text.strip()
+            'span', attrs={'class': 'text-bold pull-left width-100per'}).text.strip()
 
         chassisPrefix = basic.find(
-            'a', attrs={'class': 'text-red pull-left width-70per chassis-amkenya chassis-wd'}).text.strip()
+            'a', attrs={'class': 'text-primary pull-left width-70per chassis-amkenya chassis-wd'}).text.strip()
 
-        transColorFuel = basic.find(
-            'span', attrs={'class': 'pull-left width-55per'}).text.strip()
+        # transColorFuel = basic.find(
+        #     'span', attrs={'class': 'pull-left width-55per'}).text.strip()
+        # "//div[@class='data-container']/dl/dd[2]/span[1]"
+        transColorFuel = basic.findAll(
+            'span', attrs={'class': 'pull-left width-100per'})[0].text.strip()
 
-        equipment = basic.find(
-            'div', attrs={'class': 'pull-left width-55per'}).find('span').text.strip()
+        # equipment = basic.find(
+        #     'div', attrs={'class': 'pull-left width-55per'}).find('span').text.strip()
+        equipment = basic.findAll(
+            'span', attrs={'class': 'pull-left width-100per'})[1].text.strip()
 
         vehicleInfo['main_img'] = main_img['src']
         # vehicleInfo['main_img'] = getImageFileSize(main_img['src'])
-        vehicleInfo["ibcnum"] = ibcnum[-9:]
+        vehicleInfo["atnznum"] = atnznum[-9:]
         vehicleInfo["shuppin"] = shuppin
         vehicleInfo["yearMakeModel"] = unicodedata.normalize(
             "NFKD", yearMakeModel)
@@ -129,19 +134,19 @@ def destruct_basic(driver):
         vehicleInfo["transColorFuel"] = transColorFuel
         vehicleInfo["equipment"] = equipment
 
-        yorTextImage = basic.find(
-            'span', attrs={'class': 'text-left width-45per yor-in-thumbnail'})
+        # yorTextImage = basic.find(
+        #     'span', attrs={'class': 'text-left width-45per yor-in-thumbnail'})
 
-        try:
-            yorTextImage = yorTextImage.find('img')['src']
-            # yorTextImage = getImageFileSize(yorTextImage.find('img'))
-            vehicleInfo["yorText"] = ""
-            vehicleInfo["yorImage"] = yorTextImage
+        # try:
+        #     yorTextImage = yorTextImage.find('img')['src']
+        #     # yorTextImage = getImageFileSize(yorTextImage.find('img'))
+        #     vehicleInfo["yorText"] = ""
+        #     vehicleInfo["yorImage"] = yorTextImage
 
-        except:
-            yorTextImage = yorTextImage.text.strip().split()[-1]
-            vehicleInfo["yorText"] = yorTextImage
-            vehicleInfo["yorImage"] = -1
+        # except:
+        #     yorTextImage = yorTextImage.text.strip().split()[-1]
+        #     vehicleInfo["yorText"] = yorTextImage
+        #     vehicleInfo["yorImage"] = -1
 
         all_vehicles.append(vehicleInfo)
 
