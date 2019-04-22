@@ -1,0 +1,40 @@
+#############################################################
+JUAA Ishikawa Errors: 
+
+Data Collection lasted for 2 minutes and 32.7 seconds.
+Error checking completed within 8 minutes and 33.7 seconds.
+Finished checking on Tuesday, 16. April 2019 07:25PM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+111220878, 111219864, 
+
+Shuppin: 
+
+4018, 7035, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+111220878, 
+
+Shuppin: 
+
+4018, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

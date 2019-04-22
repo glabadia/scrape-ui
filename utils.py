@@ -288,7 +288,7 @@ def printToFile_shuppin(duration, fileName="testFile", contentList=""):
     with open(f"{fileName}.txt", "w") as writer:
         writer.write(
             "#############################################################\n")
-        writer.write(f"{fileName.upper()} Errors: \n")
+        writer.write(f"{fileName} Errors: \n")
         writer.write("\n")
         writer.write(
             f"Data Collection lasted for {convert_time(dc_time)} seconds.\n")
@@ -296,7 +296,7 @@ def printToFile_shuppin(duration, fileName="testFile", contentList=""):
             f"Error checking completed within {convert_time(check_time)} seconds.\n")
         writer.write(f"Finished checking on {getTimeStamp()} \n")
         writer.write(
-            "#############################################################\n")
+            "#############################################################\n\n")
         for content in contentList:
             writer.write(f"{content.title()}:\n")
             value = contentList[content]
@@ -369,7 +369,7 @@ def sorted_auctionHouses(raw_dict):
     # for key, value in sorted(ah_units.items(), key=lambda items: items[-1]):
     #     sorted_ah[key] = value
     # , reverse=True
-    return {key: value for key, value in sorted(raw_dict.items(), key=lambda items: items[-1], reverse=True)}
+    return {key: value for key, value in sorted(raw_dict.items(), key=lambda items: items[-1])}
 
 
 def trimm_list(input_list, element_to_trim):

@@ -1,0 +1,44 @@
+#############################################################
+CAA NAA Fukuoka (Tender) Errors: 
+
+Data Collection lasted for 3 minutes and 40.0 seconds.
+Error checking completed within 11 minutes and 20.4 seconds.
+Finished checking on Monday, 22. April 2019 08:28PM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+111361507, 
+
+Shuppin: 
+
+2510, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+111361556, 
+
+Shuppin: 
+
+3036, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+111361556, 
+
+Shuppin: 
+
+3036, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

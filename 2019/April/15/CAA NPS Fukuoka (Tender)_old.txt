@@ -1,0 +1,35 @@
+#############################################################
+CAA NPS FUKUOKA (TENDER) Errors: 
+
+Data Collection lasted for 1 minute and 10.9 seconds.
+Error checking completed within 5 minutes and 16.2 seconds.
+Finished checking on Monday, 15. April 2019 07:23PM 
+#############################################################
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+111188091, 111188096, 111188094, 
+
+Shuppin: 
+
+7206, 7211, 7209, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

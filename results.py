@@ -9,8 +9,8 @@ from time import sleep, time
 from search import calibrateSearch
 from errorCheck import hasNoResults
 WAIT_MORE_IMG: int = 40
-EXPAND_WAIT_TIME: int = 20  # 50
-WAIT_TIME: int = 25  # 25
+EXPAND_WAIT_TIME: int = 25  # 50
+WAIT_TIME: int = 30  # 25
 SLEEP_TIME: int = 10
 FAST_TIME: int = 5
 

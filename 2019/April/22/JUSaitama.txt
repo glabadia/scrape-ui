@@ -1,0 +1,40 @@
+#############################################################
+JUSaitama Errors: 
+
+Data Collection lasted for 5 minutes and 45.1 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 23. April 2019 12:00AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+111355554, 111355811, 111355981, 
+
+Shuppin: 
+
+2571, 3544, 395, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+111356881, 
+
+Shuppin: 
+
+8655, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------
