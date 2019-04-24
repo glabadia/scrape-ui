@@ -18,8 +18,13 @@ def getImageFileSize(link):
     # return len(imgLink)
     # sleep(.7)
     # sleep(.2)
-    return -1 if link == -1 or link == '/images/atnzauctions_nf_large.gif' or link == '/images/atnzauctions_nf_small.gif' else len(requests.get(link).text)
+    # return -1 if link == -1 or link == '/images/atnzauctions_nf_large.gif' or link == '/images/atnzauctions_nf_small.gif' else len(requests.get(link).text)
     # print(f"Image size: {len()/1024} bytes")
+    return (
+        -1 if link == -1 else
+        len(requests.get("http://auctions.autoterminal.co.nz"+link).text) if (link ==
+                                                                              '/images/atnzauctions_nf_large.gif' or link == '/images/atnzauctions_nf_small.gif') else len(requests.get(link).text)
+    )
 
 
 def isYorNotCLear(imageSize):
@@ -31,7 +36,8 @@ def isInvalidRequest(imageSize):
 
 
 def isAucSheetIncomplete(aucSheet):
-    return 230 >= aucSheet >= 227 or aucSheet == 301
+    # return 230 >= aucSheet >= 227 or aucSheet == 301
+    return 230 >= aucSheet > 227 or aucSheet == 301
 
 
 def isAucSheetNoFoto(aucSheet):
@@ -40,6 +46,10 @@ def isAucSheetNoFoto(aucSheet):
 
 def isNoFoto(foto):
     return 2151 == foto
+
+
+def noMainImg(foto):
+    return 4484 == foto
 
 
 def isImageNotAvailable(foto):

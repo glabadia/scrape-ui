@@ -28931,3 +28931,687 @@ JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver
 JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
 JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
 JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+[Parent 2468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 2468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14816, Ch[Parent 2468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4291555949076047	Marionette	INFO	Stopped listening on port 50513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556005907791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.XrSihCPBNjLe"
+1556005909112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556005909112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556005909112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556005912922	Marionette	INFO	Listening on port 58218
+1556005913268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chr1556015761934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556015761934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556015761934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556015766459	Marionette	INFO	Listening on port 60918
+1556015766705	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+[Child 1520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9804, Gecko_IOThread] WARNING: pipe err[or: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11244, Chrome_ChildThread[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6748,1556015817306	Marionette	INFO	Stopped listening on port 60918
+[GPU 347
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556016060171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.vjdQvwqUOaeO"
+1556016060519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556016060520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556016060520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556016062768	Marionette	INFO	Listening on port 61177
+1556016062884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+[Child 1192, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 8076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10096, Chrome_ChildThread] WARNING: pipe error: 109: file z1556016188269	Marionette	INFO	Stopped listening on port 61177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556017320249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.9dq2hTuH74ie"
+1556017320587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556017320587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556017320587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556017322980	Marionette	INFO	Listening on port 61840
+1556017323464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+[Parent 14660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6052, Chrome_ChildTh[Parent 14660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chr1556017576937	Marionette	INFO	Stopped listening on port 61840
+[GPU 12512
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556017593129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.TTLbXPnQcLNg"
+1556017593479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556017593479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556017593479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556017595718	Marionette	INFO	Listening on port 62058
+1556017595843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+1556020305627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.G5hEgtu5pxAa"
+1556020306007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556020306008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556020306008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556020309827	Marionette	INFO	Listening on port 57143
+1556020309945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+1556025097130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/slick.js, line 2666: TypeError: _[i].slick is undefined
+[Parent 10628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Parent 10628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556026793405	Marionette	INFO	Stopped listening on port 57143
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556026803868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.y4alwGdpxyTc"
+1556026804584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556026804584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556026804584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 10912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556026807851	Marionette	INFO	Listening on port 49185
+1556026808195	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+1556026859644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.QuZNmg8BQMNX"
+1556026860126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556026860127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556026860127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556026862840	Marionette	INFO	Listening on port 49367
+1556026862881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+[Child 11516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 4860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_1556027203838	Marionette	INFO	Stopped listening on port 49367
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556027211261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.8O8lT805O3NW"
+1556027211612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556027211613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556027211613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556027214122	Marionette	INFO	Listening on port 49736
+1556027214485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+[Parent 15660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10888, C[Child 13896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 15660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16020, Chrome_ChildThread] WARNING: 1556027463770	Marionette	INFO	Stopped listening on port 49736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10784, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556027471097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.RErCOt3t1Kbc"
+1556027471413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556027471413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556027471413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556027473945	Marionette	INFO	Listening on port 50177
+1556027474318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+[Parent 14288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro1556029273744	Marionette	INFO	Stopped listening on port 50177
+[GPU 3
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556029281395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.K6aEKGLF1oPV"
+1556029281924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556029281925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556029281925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556029284818	Marionette	INFO	Listening on port 55298
+1556029285214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 12644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13296, Chrome_ChildThread] [Child 9076, Chrome_ChildThread] WAR
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+NING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9076, Chr[Parent 12644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556029340461	Marionette	INFO	Stopped listening on port 55298
+[GPU 204, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556029344258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.ckdCpY7Af0cU"
+1556029344620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556029344621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556029344621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556029346853	Marionette	INFO	Listening on port 55447
+1556029346977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+[Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10408, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556034685176	Marionette	INFO	Stopped listening on port 55447
+1556034700818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.OhyHUXkAMj1a"
+1556034703589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556034703589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556034703589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Child 9084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556034708243	Marionette	INFO	Listening on port 62880
+1556034708465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+1556034813308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.iXLhadwVeHE7"
+1556034813889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556034813890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556034813890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556034816589	Marionette	INFO	Listening on port 63048
+1556034816632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+[Child 5696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5696,[Parent 4108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3388, Chro[Parent 4108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10276, Chrome_ChildThre1556035249393	Marionette	INFO	Stopped listening on port 63048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556104225673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.E6k1RlPFuDn2"
+1556104226509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556104226509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556104226509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556104229769	Marionette	INFO	Listening on port 51275
+1556104230093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1241556104598382	Marionette	INFO	Stopped listening on port 51275
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556104608615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.ub9M9PV6ypbB"
+1556104608985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556104608985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556104608985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556104611384	Marionette	INFO	Listening on port 51651
+1556104611837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+[Child 1420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1420, Chrome_ChildT[Child 16164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1616[Parent 12672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556105949391	Marionette	INFO	Stopped listening on port 51651
+[GPU 5
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556105953234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.ivf0QWCD5VZ4"
+1556105953607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556105953607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556105953607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556105956225	Marionette	INFO	Listening on port 53181
+1556105956450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556106021719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.Ub8RWJPDbljU"
+1556106022165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556106022166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556106022166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556106024837	Marionette	INFO	Listening on port 53346
+1556106024949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 1104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11948, Chrome_[Parent 1104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556106365327	Marionette	INFO	Stopped listening on port 53346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556106370948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.9TQehic387La"
+1556106372037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556106372037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556106372037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556106374360	Marionette	INFO	Listening on port 53756
+1556106374764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+[Parent 11444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[1556108639736	Marionette	INFO	Stopped listening on port 53756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556108654447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.9hojcp40R4Mb"
+1556108654922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556108654923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556108654923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556108657263	Marionette	INFO	Listening on port 58808
+1556108657682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+1556109014873	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/slick.js, line 2666: TypeError: _[i].slick is undefined
+[Parent 12592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13732,[Parent 12592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/1556110395931	Marionette	INFO	Stopped listening on port 58808
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556110727310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.5Qq0DfqTipFw"
+1556110727776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556110727776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556110727776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556110730110	Marionette	INFO	Listening on port 60904
+1556110730528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+[Parent 9716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 16100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2816, Chrome_ChildThread] WARNING: pipe error1556111662364	Marionette	INFO	Stopped listening on port 60904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10460
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556111674144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.LkFre8DSZSv2"
+1556111675084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556111675084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556111675084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556111677867	Marionette	INFO	Listening on port 59967
+1556111677969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/slick.js, line 2666: TypeError: _[i].slick is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/slick.js, line 2666: TypeError: _[i].slick is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+1556116321886	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 2929: TypeError: results is undefined
+JavaScript error: http://auctions.autoterminal.co.nz/Scripts/purchasing-notes.js?ver=032820191447, line 48: TypeError: obj is undefined
+1556117854804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1643: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1643: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1643: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1643: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10752, Chrome1556117887731	Marionette	INFO	Stopped listening on port 59967
+1556118032126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.P9L4m08ocs9e"
+1556118034422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556118034423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556118034423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556118039157	Marionette	INFO	Listening on port 59093
+1556118039539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 14112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[
+Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9244, Chrome_ChildThread]1556118239682	Marionette	INFO	Stopped listening on port 59093
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556118244295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.nkwh9l7zmn0O"
+1556118244654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556118244655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556118244655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556118247597	Marionette	INFO	Listening on port 62642
+1556118247632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+[Parent 11612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[
+Child 9104, [Child 5240, ChroChrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9104, Chrome_Child[Parent 11612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 115281556118473469	Marionette	INFO	Stopped listening on port 62642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556118478841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\glabadia\\AppData\\Local\\Temp\\rust_mozprofile.Fs6vlyyXFJq9"
+1556118479275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556118479276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556118479276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556118482105	Marionette	INFO	Listening on port 62985
+1556118482175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 3320: unreachable code after return statement
+JavaScript warning: http://auctions.autoterminal.co.nz/Scripts/atnzauctions.js?ver=032820191447, line 1250: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+

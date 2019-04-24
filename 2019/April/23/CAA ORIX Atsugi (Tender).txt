@@ -1,0 +1,44 @@
+#############################################################
+CAA ORIX Atsugi (Tender) Errors: 
+
+Data Collection lasted for 5 minutes and 36.0 seconds.
+Error checking completed within 16 minutes and 35.5 seconds.
+Finished checking on Tuesday, 23. April 2019 08:15PM 
+#############################################################
+
+No Main Image:
+111386566, 
+
+Shuppin: 
+
+242, 
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+111386562, 
+
+Shuppin: 
+
+234, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+111386562, 
+
+Shuppin: 
+
+234, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

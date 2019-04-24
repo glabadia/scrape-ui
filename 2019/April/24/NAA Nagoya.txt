@@ -1,0 +1,36 @@
+#############################################################
+NAA Nagoya Errors: 
+
+Data Collection lasted for 6 minutes and 29.8 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 24. April 2019 09:22PM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+111417037, 111417091, 111417185, 111416968, 
+
+Shuppin: 
+
+4066, 4120, 4215, 36, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------
