@@ -1,0 +1,44 @@
+#############################################################
+JU Hokkaido Errors: 
+
+Data Collection lasted for 2 minutes and 9.9 seconds.
+Error checking completed within 6 minutes and 1.2 seconds.
+Finished checking on Thursday, 25. April 2019 10:45PM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+111461347, 
+
+Shuppin: 
+
+1530, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+111426449, 
+
+Shuppin: 
+
+5002, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+111426449, 111463303, 111465326, 
+
+Shuppin: 
+
+5002, 7311, 2413, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

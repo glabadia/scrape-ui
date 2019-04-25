@@ -145,7 +145,8 @@ def testFetch():
 
 
 # testFetch()
-url_main_img = "http://auctions.autoterminal.co.nz/images/atnzauctions_nf_small.gif"
+# url_main_img = "http://auctions.autoterminal.co.nz/images/atnzauctions_nf_small.gif"
+url_main_img = "http://auctionimages.autoterminal.co.nz/gix_atnz.php?&op=45KqIaIKIagKIlt0A3UC7ZJq2YS08YAr4uGZgfn*CRVn7*PKIQ1KdaPF7*YFIQeqMOHNhFn*4bADLfnFgRtX48tYYnAS7SV8AYYq8B0dLvVsh5nr4K&time=201904251840"
 # url_list = ['http://138.201.37.227/imgs/23FClsky5Yua4eqYPL8xLwQkgwDjYHgwgLmMGHhIlo',
 # 'http://auctionimages.autoterminal.co.nz/gixlarge_atnz.php?&altUrl=http://88.99.218.95/imgs/23FClsky5Yua4eqYPL8xLwQkgwDjYHgwgLmMGHhIlo']
 print("No Image:", getImageFileSize(url_main_img))

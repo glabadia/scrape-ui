@@ -44,12 +44,33 @@ def isAucSheetNoFoto(aucSheet):
     return 219 >= aucSheet >= 217
 
 
+def isAucSheetNoFotoHref(aucSheet):
+    # ref: http://auctionimages.autoterminal.co.nz/gixlarge_atnz.php?&op=hFKqIaIKIagKIlt0A3UC7ZJq2YS08YAr4uGZgfn*CRVn7*PKIQ1KdaPF7*YFIQeqMOHNhFn*4bADLfnFgRtX48tYYnAS7SV8AYYq8B0dLvVsh5nr4K&time=201904251840
+    return 193 == aucSheet
+
+
 def isNoFoto(foto):
     return 2151 == foto
 
 
+def isNoFotoHref(foto):
+    return 223 == foto
+
+
 def noMainImg(foto):
     return 4484 == foto
+
+
+def imgProcessed_moreImg(foto):
+    return 4457 == foto
+
+
+def imgProcessed(foto):
+    return 33573 == foto
+
+
+def imgProcessedBlank(foto):
+    return 152 == foto
 
 
 def isImageNotAvailable(foto):

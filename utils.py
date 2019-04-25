@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-from getImageSize import getImageFileSize, isAucSheetIncomplete, isNoFoto, noMainImg
+from getImageSize import getImageFileSize, isAucSheetIncomplete, isNoFoto, noMainImg, isNoFotoHref, imgProcessedBlank, imgProcessed_moreImg
 from jpChecker import find_japanese_char as catchJap
 
 SLEEP_TIME: int = 10
@@ -168,14 +168,14 @@ def dataVerification(vehicles, lookout=errorList, moreLookOut=moreErrorList, rep
                 # fast search
                 main_img_size = getImageFileSize(basic[key])
                 # if lookout[key] == main_img_size or 4484 == main_img_size:
-                if lookout[key] == main_img_size or noMainImg(main_img_size):
+                if lookout[key] == main_img_size or noMainImg(main_img_size) or imgProcessed_moreImg(main_img_size):
                     # if lookout[key] == basic[key]:  # standard search
                     errorCount[key].append(
                         (basic[atnznumKey], basic[shuppinKey]))
             else:
 
                 # if key != 'main_img':
-                    # print(f"Key is {key}")
+                # print(f"Key is {key}")
                 if lookout[key].lower() in basic[key].lower():
                     errorCount[key].append(
                         (basic[atnznumKey], basic[shuppinKey]))
@@ -183,13 +183,13 @@ def dataVerification(vehicles, lookout=errorList, moreLookOut=moreErrorList, rep
             if key == 'more_images':
                 imagesList = advance[key]
                 for image in imagesList:
-                    if isNoFoto(image):
+                    if isNoFoto(image) or noMainImg(image) or imgProcessed_moreImg(image):
                         errorCount[key].append(
                             (basic[atnznumKey], basic[shuppinKey]))
                         break
             if key == 'auc_sheet':
-                # if isAucSheetIncomplete(advance[key]):
-                if isAucSheetIncomplete(getImageFileSize(advance[key])):
+                auc_sheet_img = getImageFileSize(advance[key])
+                if isAucSheetIncomplete(auc_sheet_img) or isNoFotoHref(auc_sheet_img) or imgProcessedBlank(auc_sheet_img):
                     errorCount[key].append(
                         (basic[atnznumKey], basic[shuppinKey]))
                 break
