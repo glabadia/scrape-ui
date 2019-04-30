@@ -162,14 +162,14 @@ def destruct_adv(driver):
     adv_soup = soup.find_all('div', id=re.compile("^VehicleDetail"))
     for adv in adv_soup:
         vehicleDetail = {}
-        auction_sheet = adv.find('a', id=re.compile(
-            '^auction-sheet-image-container'))
+        # auction_sheet = adv.find('a', id=re.compile(
+        #     '^auction-sheet-image-container'))
 
-        moreImages = adv.find('div', attrs={
-                              'class': 'additional-image-container hide-in-mobile'}).find_all('img')[1:-1]
+        # moreImages = adv.find('div', attrs={
+        #                       'class': 'additional-image-container hide-in-mobile'}).find_all('img')[1:-1]
 
-        vehicleDetail["auc_sheet"] = auction_sheet['href']
-        vehicleDetail["more_images"] = [img['src'] for img in moreImages]
+        # vehicleDetail["auc_sheet"] = auction_sheet['href']
+        # vehicleDetail["more_images"] = [img['src'] for img in moreImages]
 
         all_details.append(vehicleDetail)
 

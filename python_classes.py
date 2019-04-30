@@ -1,3 +1,6 @@
+# python_classes.py
+
+
 class TagCloud:
     def __init__(self):
         self.__tags = {}
@@ -36,6 +39,8 @@ class Product:
     def price(self):
         return self.__price
 
+    # you can only set this once
+    # if you comment this out, price becomes a read-only property
     @price.setter
     def price(self, value):
         if value < 0:
