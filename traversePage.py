@@ -13,8 +13,11 @@ import asyncio
 WAIT_TIME: int = 5  # 10
 SLEEP_TIME: int = 3  # 5
 
+# houses: one, sorted, active
+# search: fast, slow
 
-def nextResults(webdriver):
+
+def nextResults(webdriver, treat={"houses": "sorted", "search": "fast"}):
     '''
     #1  Get current page number
     #2  Get Next page number reference
@@ -29,7 +32,9 @@ def nextResults(webdriver):
 
     startDC = time()
     isEnd = False
-    # createDirectory()
+
+    if treat["houses"] == "one":
+        createDirectory()
 
     auctionHouseName = ""
 
@@ -45,7 +50,7 @@ def nextResults(webdriver):
         if not auctionHouseName:
             auctionHouseName = getAuctionHouse(webdriver)
 
-        if time() - startDC >= 900:
+        if time() - startDC >= 1200:  # 1200
             print("DC reached 3 minute limit")
             back_to_search(webdriver)
             break
@@ -58,10 +63,9 @@ def nextResults(webdriver):
             break
 
         startRetrieve = time()
-        retrievedInfo = retrieveAllInfo(webdriver)
+        retrievedInfo = retrieveAllInfo(webdriver, treat["search"])
+        # print(retrievedInfo)
         infoList.extend(retrievedInfo)
-        # print(retrievedInfo)  # comment
-        # addInfoList.extend(retrieveInfoDetail(webdriver))
         endRetrieve = time()
 
         activePage = WebDriverWait(webdriver, WAIT_TIME).until(
@@ -101,10 +105,7 @@ def nextResults(webdriver):
     print(f"Will now check for errors..")
     print()
     startEC = time()
-    # checkErrorList = errorCheckUpd(infoList)
-    # checkErrorList = errorCheck_ibc_shuppin(infoList)
-    # checkErrorList = errorCheckMoreInfo(infoList, addInfoList)
-    checkErrorList = dataVerification(infoList)
+    checkErrorList = dataVerification(infoList, treat['search'])
 
     # populate_errors = dictErrors(checkErrorList[1])
     populate_errors = dictErrors_shuppin(checkErrorList)

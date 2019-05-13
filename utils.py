@@ -152,7 +152,8 @@ def traverseKeys():
     return None
 
 
-def dataVerification(vehicles, lookout=errorList, moreLookOut=moreErrorList, reportLog=errorReturnValue):
+def dataVerification(vehicles, speed, lookout=errorList, moreLookOut=moreErrorList, reportLog=errorReturnValue):
+    # if parameter=standard->proceed with search verification
     atnznumKey = "atnznum"
     shuppinKey = "shuppin"
     japanese = "jap_char"
@@ -160,39 +161,42 @@ def dataVerification(vehicles, lookout=errorList, moreLookOut=moreErrorList, rep
     for vehicle in vehicles:
         basic, advance = vehicle
         for key in lookout:
+            # for key in basic:
+            if speed == "slow":
+                if key == 'main_img':
+                    # fast search
+                    main_img_size = getImageFileSize(basic[key])
+                    # if lookout[key] == main_img_size or 4484 == main_img_size:
+                    if lookout[key] == main_img_size or noMainImg(main_img_size) or imgProcessed_moreImg(main_img_size):
+                        # if lookout[key] == basic[key]:  # standard search
+                        errorCount[key].append(
+                            (basic[atnznumKey], basic[shuppinKey]))
             if key == 'yearMakeModel':
                 if catchJap(basic[key]):
                     errorCount[japanese].append(
                         (basic[atnznumKey], basic[shuppinKey]))
-            # if key == 'main_img':
-            #     # fast search
-            #     main_img_size = getImageFileSize(basic[key])
-            #     # if lookout[key] == main_img_size or 4484 == main_img_size:
-            #     if lookout[key] == main_img_size or noMainImg(main_img_size) or imgProcessed_moreImg(main_img_size):
-            #         # if lookout[key] == basic[key]:  # standard search
-            #         errorCount[key].append(
-            #             (basic[atnznumKey], basic[shuppinKey]))
-            # else:
-
             if key != 'main_img':
                 # print(f"Key is {key}")
                 if lookout[key].lower() in basic[key].lower():
                     errorCount[key].append(
                         (basic[atnznumKey], basic[shuppinKey]))
-        # for key in moreLookOut:
-        #     if key == 'more_images':
-        #         imagesList = advance[key]
-        #         for image in imagesList:
-        #             if isNoFoto(image) or noMainImg(image) or imgProcessed_moreImg(image):
-        #                 errorCount[key].append(
-        #                     (basic[atnznumKey], basic[shuppinKey]))
-        #                 break
-        #     if key == 'auc_sheet':
-        #         auc_sheet_img = getImageFileSize(advance[key])
-        #         if isAucSheetIncomplete(auc_sheet_img) or isNoFotoHref(auc_sheet_img) or imgProcessedBlank(auc_sheet_img):
-        #             errorCount[key].append(
-        #                 (basic[atnznumKey], basic[shuppinKey]))
-        #         break
+        if speed == "slow":
+            for key in moreLookOut:
+                if key == 'more_images':
+                    imagesList = [getImageFileSize(img)
+                                  for img in advance[key]]
+                    # imagesList = advance[key]
+                    for image in imagesList:
+                        if isNoFoto(image) or noMainImg(image) or imgProcessed_moreImg(image):
+                            errorCount[key].append(
+                                (basic[atnznumKey], basic[shuppinKey]))
+                            break
+                if key == 'auc_sheet':
+                    auc_sheet_img = getImageFileSize(advance[key])
+                    if isAucSheetIncomplete(auc_sheet_img) or isNoFotoHref(auc_sheet_img) or imgProcessedBlank(auc_sheet_img):
+                        errorCount[key].append(
+                            (basic[atnznumKey], basic[shuppinKey]))
+                    break
     return errorCount
 
 

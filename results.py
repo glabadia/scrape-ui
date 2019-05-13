@@ -18,13 +18,12 @@ FAST_TIME: int = 5
 def expandVehicleInfo(driver):
 
     expandPath = "//div[@id = 'home']/div[@class = 'search-results hide-in-toggle']/div[@class = 'panel panel-default search-heading']/div[@class = 'panel-heading search-result-heading']/div[@class = 'row header-content']/div[@class = 'col-lg-7 col-md-7 col-xs-7 photo-details-heading']/div[@class = 'col-lg-5 col-md-5 col-xs-5 photo-heading']/div[@class='checkbox-all-vehicle']/div[@class='visible-md visible-lg right-expand-all']"
-    # /a[@class='expand-all-view']"
-    # sleep for 10 seconds to allow the browser to populate data, and fill the div with desired results.
     sleep(10)
 
     # Purchase Report ATNZ
     # ATNZ Sales Report
     # ATNZ Sales Performance Report
+    # May 2, 2019 -- remove expand button
     expandButton = driver.find_element_by_xpath(expandPath)
 
     sleep(3)  # Allow for the loader image to fade out in the browser
@@ -32,28 +31,23 @@ def expandVehicleInfo(driver):
 
 
 def expandVehicleInfoIdirect(driver):
-    # sleep for 7-15 seconds to allow the browser to populate data, and fill the div with desired results.
-    # expandPath = "//div[@class='visible-md visible-lg right-expand-all']"
-    # firefox
     print("Waiting to populate data..")
     print()
 
-    # sleep(SLEEP_TIME)  # Allow for the loader image to fade out in the browser
     isLoaderPresent = False
-    # while not isLoaderPresent:
     isLoaderPresent = waitLoader(driver)
 
     if isLoaderPresent:
-        hasExpanded = False
+        # hasExpanded = False
         print("Loader gone!")
         print()
         # startExpand, endExpand = time(), time()
-        while not hasExpanded:
-            # check if No search results exist.
-            if hasNoResults(driver):
-                print("No Search results triggered in search.")
-                break
-            hasExpanded = expandButton(driver)
+        # while not hasExpanded:
+        # check if No search results exist.
+        if hasNoResults(driver):
+            print("No Search results triggered in search.")
+            # break
+            # hasExpanded = expandButton(driver)
 
     else:
         print("Sorry. Page is still loading..")
@@ -143,7 +137,7 @@ def retrieveInfoDetail(driver):
     # for loop traverse
 
 
-def retrieveAllInfo(driver):
+def retrieveAllInfo(driver, speed):
     vehicleInfo = []
     # basicInfoPath = "//div[@class='col-lg-12 search-result-container']"
     # advInfoPath = "//div[starts-with(@id,'VehicleDetail')]"
@@ -152,10 +146,10 @@ def retrieveAllInfo(driver):
     # for basic, adv in zip(basicInfoList, advInfoList):
     #     vehicleInfo.append(
     #         (destruct_info_upd(basic), deconstruct_details(adv)))
-    basic = destruct_basic(driver)
+    basic = destruct_basic(driver, speed)
     # sleep(WAIT_MORE_IMG)
     sleep(WAIT_TIME)
-    adv = destruct_adv(driver)
+    adv = destruct_adv(driver, speed)
     for b, a in zip(basic, adv):
         vehicleInfo.append((b, a))
 

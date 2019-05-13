@@ -89,7 +89,7 @@ def bs4_search_elements(driver):
         count += 1
 
 
-def destruct_basic(driver):
+def destruct_basic(driver, speed):
     '''
         Search the info from the basic div
     '''
@@ -124,7 +124,8 @@ def destruct_basic(driver):
         equipment = basic.findAll(
             'span', attrs={'class': 'pull-left width-100per'})[1].text.strip()
 
-        vehicleInfo['main_img'] = main_img['src']
+        if speed == "slow":
+            vehicleInfo['main_img'] = main_img['src']
         # vehicleInfo['main_img'] = getImageFileSize(main_img['src'])
         vehicleInfo["atnznum"] = atnznum[-9:]
         vehicleInfo["shuppin"] = shuppin
@@ -134,26 +135,12 @@ def destruct_basic(driver):
         vehicleInfo["transColorFuel"] = transColorFuel
         vehicleInfo["equipment"] = equipment
 
-        # yorTextImage = basic.find(
-        #     'span', attrs={'class': 'text-left width-45per yor-in-thumbnail'})
-
-        # try:
-        #     yorTextImage = yorTextImage.find('img')['src']
-        #     # yorTextImage = getImageFileSize(yorTextImage.find('img'))
-        #     vehicleInfo["yorText"] = ""
-        #     vehicleInfo["yorImage"] = yorTextImage
-
-        # except:
-        #     yorTextImage = yorTextImage.text.strip().split()[-1]
-        #     vehicleInfo["yorText"] = yorTextImage
-        #     vehicleInfo["yorImage"] = -1
-
         all_vehicles.append(vehicleInfo)
 
     return all_vehicles
 
 
-def destruct_adv(driver):
+def destruct_adv(driver, speed):
     '''
         Search the info from the basic div
     '''
@@ -162,14 +149,16 @@ def destruct_adv(driver):
     adv_soup = soup.find_all('div', id=re.compile("^VehicleDetail"))
     for adv in adv_soup:
         vehicleDetail = {}
-        # auction_sheet = adv.find('a', id=re.compile(
-        #     '^auction-sheet-image-container'))
+        #   if search=standard->pix search enabled
+        if speed == "slow":
+            auction_sheet = adv.find('a', id=re.compile(
+                '^auction-sheet-image-container'))
 
-        # moreImages = adv.find('div', attrs={
-        #                       'class': 'additional-image-container hide-in-mobile'}).find_all('img')[1:-1]
+            moreImages = adv.find('div', attrs={
+                'class': 'additional-image-container hide-in-mobile'}).find_all('img')[1:-1]
 
-        # vehicleDetail["auc_sheet"] = auction_sheet['href']
-        # vehicleDetail["more_images"] = [img['src'] for img in moreImages]
+            vehicleDetail["auc_sheet"] = auction_sheet['href']
+            vehicleDetail["more_images"] = [img['src'] for img in moreImages]
 
         all_details.append(vehicleDetail)
 

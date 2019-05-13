@@ -19,12 +19,15 @@ firefox_driver = r"E:\personal\program\geckodriver"
 work_chromedriver = r"C:\Users\glabadia\Desktop\VS\scripts\automation-bs\chromedriver"
 
 username = "glabadia"
-passcode = "Optiplex3050!"
+passcode = "Optiplex3050?"
 
 # driver = webdriver.Firefox(executable_path=firefox_driver)
 # driver = webdriver.Chrome(executable_path=home_driver)
 # driver = webdriver.Chrome(executable_path=work_chromedriver)
-# driver = webdriver.Chrome(executable_path=r"C:\Users\glabadia\Desktop\VS\selenium drivers\Chrome\chromedriver")
+# driver = webdriver.Chrome(
+#     executable_path=r"C:\Users\glabadia\Desktop\VS\selenium drivers\Chrome\chromedriver")
+
+
 driver = webdriver.Firefox(
     executable_path=r"C:\Users\glabadia\Desktop\VS\selenium drivers\Firefox\geckodriver")
 driver.get(url)
@@ -64,12 +67,12 @@ userLoginATNZ(username, passcode, driver)
 # nextResults(driver)  # Normal Traverse
 
 
-def one_AH_search(driver):
+def one_AH_search(driver, treat={"houses": "sorted", "search": "fast"}):
     searchFunc(driver)
-    nextResults(driver)
+    nextResults(driver, treat)
 
 
-def sorted_AH_search(driver):
+def sorted_AH_search(driver, treat={"houses": "sorted", "search": "fast"}):
     #   open dropdownbox
     #   retrieve all auction house info
     #   sort all auction houses ascending order
@@ -87,12 +90,12 @@ def sorted_AH_search(driver):
             unselect_AH(driver)
         print(f"Now searching for: {auction_house}...")
         web_element[auction_house].click()
-        one_AH_search(driver)
+        one_AH_search(driver, treat)
         print(f"Finished searching for: {auction_house}...")
         not_first_run = True
 
 
-def search_active_AH(driver):
+def search_active_AH(driver, treat={"houses": "sorted", "search": "fast"}):
     '''
     1. get all references of selected auction houses as auctionHouses
     2. sort auctionHouses, depending on the parameter (if normal sort or reverse)
@@ -116,11 +119,23 @@ def search_active_AH(driver):
         unselect_AH(driver)
         print(f"Now searching for: {ah}...")
         webElement[ah].click()
-        one_AH_search(driver)
+        one_AH_search(driver, treat)
         print(f"Finished searching for: {ah}")
         not_first_run = True
 
 
 # one_AH_search(driver)
+# {search="fast",houses="one"}
 # sorted_AH_search(driver)
-search_active_AH(driver)
+# search_active_AH(driver)
+
+def instructions(treat={"houses": "sorted", "search": "fast"}):
+    if treat["houses"] == "sorted":
+        # print(f"Sorted AH Search, {treat['search']}")
+        sorted_AH_search(driver, treat)
+    elif treat["houses"] == "active":
+        print(f"Active AH Search, {treat['search']}")
+        search_active_AH(driver, treat)
+    else:
+        # print(f"One AH Search, {treat['search']}")
+        one_AH_search(driver, treat)

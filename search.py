@@ -105,7 +105,7 @@ def conditionGrade(driver):
     elements[-1].click()
 
 
-def searchFunc(driver, chassisNum=""):
+def searchFunc(driver):
     '''
     One role: Clicks the search button
     '''
