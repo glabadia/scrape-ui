@@ -42,9 +42,21 @@ def userLoginATNZ(un, pw, driver):
     """
     # Chrome
     # Firefox
-    username = "//input[@id='UserId']"
-    password = "//input[@id='Password']"
+    # username = "//input[@id='UserId']"
+    username = "//input[@placeholder='Email']"
+    # password = "//input[@id='Password']"
+    password = "//input[@placeholder='Password']"
+    enterLoginPath = "//input[@value='Login']"
+
+    loginPath = "//button[@id='login-btn']"
+    loginButton = WebDriverWait(driver, SLEEP_TIME).until(
+        EC.presence_of_element_located((By.XPATH, loginPath)))
+    loginButton.click()
 
     driver.find_element_by_xpath(username).send_keys(un)
     driver.find_element_by_xpath(password).send_keys(pw)
-    driver.find_element_by_xpath(password).send_keys(u'\ue007')
+
+    # driver.find_element_by_xpath(password).send_keys(u'\ue007')
+    enterLoginButton = WebDriverWait(driver, SLEEP_TIME).until(
+        EC.presence_of_element_located((By.XPATH, enterLoginPath)))
+    enterLoginButton.click()

@@ -50,11 +50,13 @@ def nextResults(webdriver, treat={"houses": "sorted", "search": "fast"}):
         if not auctionHouseName:
             auctionHouseName = getAuctionHouse(webdriver)
 
-        if time() - startDC >= 1200:  # 1200
+        # if time() - startDC >= 1200:  # 1200
+        if time() - startDC >= 3000:  # 1200
             print("DC reached 3 minute limit")
             back_to_search(webdriver)
             break
-
+# if(and(E2<>$N$13,E2<>$N$14,E2<>$N$15),if(and(H2<>$N$13,H2<>$N$14,H2<>$N$15),H2+D2,if((E2+D2)<TODAY(),TODAY()+D2,E2+D2)),if((F2+D2+$N$18)<TODAY(),TODAY()+D2+$N$18,F2+D2+$N$18)
+# =IF(B2=M10,"",IF(B2=M7,F2+D2,if(and(B2=M8,))))
         if results:
             print("No results displayed..")
             print(f"Data collection for [{auctionHouseName}]: incomplete")

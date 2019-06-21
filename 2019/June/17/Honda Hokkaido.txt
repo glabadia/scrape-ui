@@ -1,0 +1,40 @@
+#############################################################
+Honda Hokkaido Errors: 
+
+Data Collection lasted for 1 minute and 30.9 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 17. June 2019 06:59AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+112394267, 112408620, 
+
+Shuppin: 
+
+30038, 30162, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+112394267, 112408620, 
+
+Shuppin: 
+
+30038, 30162, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

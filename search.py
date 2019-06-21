@@ -145,19 +145,24 @@ def calibrateSearch(driver):
     sleep(3)
     btsButton.click()
 
-    marketReportPath = "input#marketreport.search-option"
-    marketReportButton = driver.find_element_by_css_selector(marketReportPath)
+    # marketReportPath = "input#marketreport.search-option"
+    # marketReportButton = driver.find_element_by_css_selector(marketReportPath)
+    marketReportPath = "//input[@id='marketreport']"
+    marketReportButton = driver.find_element_by_xpath(marketReportPath)
     marketReportButton.click()
 
     sleep(2)  # delay by 2 seconds
 
-    idirectAuctionPath = "input#idirectauction.search-option"
-    idirectAuctionButton = driver.find_element_by_css_selector(
-        idirectAuctionPath)
-    idirectAuctionButton.click()
+    # atnzAuctionPath = "input#idirectauction.search-option"
+    # atnzAuctionButton = driver.find_element_by_css_selector(atnzAuctionPath)
+    atnzAuctionPath = "//input[@id='atnzauction']"
+    atnzAuctionButton = driver.find_element_by_xpath(atnzAuctionPath)
+    atnzAuctionButton.click()
 
     sleep(2)
 
-    mainSearchPath = "button.btn.btn-primary.btn-search.search"
-    mainSearchButton = driver.find_element_by_css_selector(mainSearchPath)
+    # mainSearchPath = "button.btn.btn-primary.btn-search.search"
+    # mainSearchButton = driver.find_element_by_css_selector(mainSearchPath)
+    mainSearchPath = "//button[@class='btn btn-primary btn-search search']"
+    mainSearchButton = driver.find_element_by_xpath(mainSearchPath)
     mainSearchButton.click()
