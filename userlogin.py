@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-SLEEP_TIME: int = 10
+SLEEP_TIME: int = 20
 
 
 def userLogin(un, pw, driver):
@@ -43,20 +43,26 @@ def userLoginATNZ(un, pw, driver):
     # Chrome
     # Firefox
     # username = "//input[@id='UserId']"
-    username = "//input[@placeholder='Email']"
+    username = "//input[@placeholder='Email']"  # June 26, 2019
+    # username = "//input[@placeholder='Username']"  # June 24, 2019
     # password = "//input[@id='Password']"
     password = "//input[@placeholder='Password']"
-    enterLoginPath = "//input[@value='Login']"
+    # enterLoginPath = "//input[@value='Login']"
+    # enterLoginPath = "//button[@id='btnlogin']"  # June 24,2019
+    # June 26,2019
+    enterLoginPath = "//input[@class='btn btn-sm btn-kiwi-orange px-4 mb-3']"
 
-    loginPath = "//button[@id='login-btn']"
-    loginButton = WebDriverWait(driver, SLEEP_TIME).until(
-        EC.presence_of_element_located((By.XPATH, loginPath)))
-    loginButton.click()
+    loginPath = "//button[@id='login-btn']"  # June 24,2019
+    # loginButton = WebDriverWait(driver, SLEEP_TIME).until(
+    #     EC.presence_of_element_located((By.XPATH, loginPath)))
+    loginButton = driver.find_element_by_xpath(loginPath)  # June 24, 2019
+    loginButton.click()  # June 24, 2019
 
     driver.find_element_by_xpath(username).send_keys(un)
     driver.find_element_by_xpath(password).send_keys(pw)
 
     # driver.find_element_by_xpath(password).send_keys(u'\ue007')
-    enterLoginButton = WebDriverWait(driver, SLEEP_TIME).until(
-        EC.presence_of_element_located((By.XPATH, enterLoginPath)))
+    # enterLoginButton = WebDriverWait(driver, SLEEP_TIME).until(
+    #     EC.presence_of_element_located((By.XPATH, enterLoginPath)))
+    enterLoginButton = driver.find_element_by_xpath(enterLoginPath)
     enterLoginButton.click()

@@ -1,0 +1,44 @@
+#############################################################
+Bay Errors: 
+
+Data Collection lasted for 13 minutes and 17.8 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 26. June 2019 09:31AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+112602048, 
+
+Shuppin: 
+
+76303, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+112602050, 
+
+Shuppin: 
+
+80038, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+112602050, 
+
+Shuppin: 
+
+80038, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------
