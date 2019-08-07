@@ -15,21 +15,22 @@ from bs4_searchTags import bs4_search_elements, destruct_basic, destruct_adv
 
 url = "http://auctions.autoterminal.co.nz"
 home_driver = r"E:\personal\program\chromedriver"
-firefox_driver = r"E:\personal\program\geckodriver"
+# firefox_driver = r"E:\personal\program\geckodriver"
 work_chromedriver = r"C:\Users\glabadia\Desktop\VS\scripts\automation-bs\chromedriver"
+new_chromedriver_8_7_2019 = r"C:\Users\glabadia\Desktop\VS\scripts\scrapeUI\chromedriver"
 
 username = "glabadia"
 passcode = "Optiplex3050?"
 
 # driver = webdriver.Firefox(executable_path=firefox_driver)
 # driver = webdriver.Chrome(executable_path=home_driver)
-# driver = webdriver.Chrome(executable_path=work_chromedriver)
+driver = webdriver.Chrome(executable_path=work_chromedriver)
 # driver = webdriver.Chrome(
 #     executable_path=r"C:\Users\glabadia\Desktop\VS\selenium drivers\Chrome\chromedriver")
 
 
-driver = webdriver.Firefox(
-    executable_path=r"C:\Users\glabadia\Desktop\VS\selenium drivers\Firefox\geckodriver")
+# driver = webdriver.Firefox(
+#     executable_path=r"C:\Users\glabadia\Desktop\VS\selenium drivers\Firefox\geckodriver")
 driver.get(url)
 
 

@@ -50,8 +50,8 @@ def nextResults(webdriver, treat={"houses": "sorted", "search": "fast"}):
         if not auctionHouseName:
             auctionHouseName = getAuctionHouse(webdriver)
 
-        # if time() - startDC >= 1200:  # 1200
-        if time() - startDC >= 3000:  # 1200
+        if time() - startDC >= 1200:  # 1200
+        # if time() - startDC >= #3000:  # 1200
             print("DC reached 3 minute limit")
             back_to_search(webdriver)
             break
