@@ -1,0 +1,40 @@
+#############################################################
+JU Gunma Errors: 
+
+Data Collection lasted for 4 minutes and 41.6 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 29. August 2019 05:23AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+113713973, 113719101, 
+
+Shuppin: 
+
+7034, 7062, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+113735415, 113735417, 
+
+Shuppin: 
+
+2072, 2074, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

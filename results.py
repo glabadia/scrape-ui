@@ -58,7 +58,7 @@ def expandButton(driver):
     plusSignFirefox = "//i[@class='glyphicon text-left expand-icon glyphicon-plus-sign']"
     minusSignFirefox = "//i[@class='glyphicon text-left expand-icon glyphicon-minus-sign']"
     try:
-        expand = WebDriverWait(driver, EXPAND_WAIT_TIME).until(
+        expand = WebDriverWait(driver, FAST_TIME).until(  # EXPAND_WAIT_TIME
             EC.presence_of_element_located((By.XPATH, plusSignFirefox)))
         expand.click()
         hasExpanded = driver.find_element_by_xpath(minusSignFirefox)
@@ -148,7 +148,7 @@ def retrieveAllInfo(driver, speed):
     #         (destruct_info_upd(basic), deconstruct_details(adv)))
     basic = destruct_basic(driver, speed)
     # sleep(WAIT_MORE_IMG)
-    sleep(WAIT_TIME)
+    sleep(FAST_TIME)  # WAIT_TIME
     adv = destruct_adv(driver, speed)
     for b, a in zip(basic, adv):
         vehicleInfo.append((b, a))

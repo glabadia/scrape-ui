@@ -1,0 +1,36 @@
+#############################################################
+JUAA Ishikawa Errors: 
+
+Data Collection lasted for 1 minute and 53.2 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 21. August 2019 05:08AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+113526443, 
+
+Shuppin: 
+
+3008, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

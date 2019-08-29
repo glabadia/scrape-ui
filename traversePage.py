@@ -10,6 +10,7 @@ from results import expandVehicleInfoIdirect, retrieveInfoTest, retrieveInfoUpd,
 from errorCheck import hasNoResults
 
 import asyncio
+import gc
 WAIT_TIME: int = 5  # 10
 SLEEP_TIME: int = 3  # 5
 
@@ -51,7 +52,7 @@ def nextResults(webdriver, treat={"houses": "sorted", "search": "fast"}):
             auctionHouseName = getAuctionHouse(webdriver)
 
         if time() - startDC >= 1200:  # 1200
-        # if time() - startDC >= #3000:  # 1200
+            # if time() - startDC >= #3000:  # 1200
             print("DC reached 3 minute limit")
             back_to_search(webdriver)
             break
@@ -87,6 +88,11 @@ def nextResults(webdriver, treat={"houses": "sorted", "search": "fast"}):
                 f"Finished checking [{auctionHouseName}, Page {activePage.text}] in {(endRetrieve-startRetrieve):.1f} seconds.")
             print()
             print(f"Next is [Page {nextPage.text}]..")
+
+            # DEBUG MODE FOR GARBAGE COLLECTION
+            # gc.DEBUG_LEAK
+            # gc.collect()
+            #
             try:
                 nextPage.click()
             except Exception as e:
@@ -108,6 +114,10 @@ def nextResults(webdriver, treat={"houses": "sorted", "search": "fast"}):
     print()
     startEC = time()
     checkErrorList = dataVerification(infoList, treat['search'])
+
+    # Free Up Memory in infoList
+    infoList = []
+    gc.collect()
 
     # populate_errors = dictErrors(checkErrorList[1])
     populate_errors = dictErrors_shuppin(checkErrorList)

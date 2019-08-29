@@ -1,0 +1,40 @@
+#############################################################
+JU Niigata (aa) Errors: 
+
+Data Collection lasted for 7 minutes and 27.2 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Friday, 23. August 2019 05:25AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+113542478, 113583314, 113542492, 
+
+Shuppin: 
+
+5009, 3030, 7008, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+113601020, 
+
+Shuppin: 
+
+256, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------
