@@ -13,6 +13,7 @@ import asyncio
 import gc
 WAIT_TIME: int = 5  # 10
 SLEEP_TIME: int = 3  # 5
+dcTimeLimit: int = 3000
 
 # houses: one, sorted, active
 # search: fast, slow
@@ -51,7 +52,7 @@ def nextResults(webdriver, treat={"houses": "sorted", "search": "fast"}):
         if not auctionHouseName:
             auctionHouseName = getAuctionHouse(webdriver)
 
-        if time() - startDC >= 1200:  # 1200
+        if time() - startDC >= dcTimeLimit:  # 1200
             # if time() - startDC >= #3000:  # 1200
             print("DC reached 3 minute limit")
             back_to_search(webdriver)
