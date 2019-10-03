@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-SLEEP_TIME: int = 20
+SLEEP_TIME: int = 10  # 20
 
 
 def userLogin(un, pw, driver):
@@ -46,7 +46,10 @@ def userLoginATNZ(un, pw, driver):
     username = "//input[@placeholder='Email']"  # June 26, 2019
     # username = "//input[@placeholder='Username']"  # June 24, 2019
     # password = "//input[@id='Password']"
-    password = "//input[@placeholder='Password']"
+    # password = "//input[@placeholder='Password']"
+    # September 17, 2019
+    password = "//div[contains(@class,'input-group-sm flex-nowrap')]//input[@placeholder='Password']"
+    password = "//input[contains(@class,'form-control p-1')]"
     # enterLoginPath = "//input[@value='Login']"
     # enterLoginPath = "//button[@id='btnlogin']"  # June 24,2019
     # June 26,2019
@@ -59,7 +62,11 @@ def userLoginATNZ(un, pw, driver):
     loginButton.click()  # June 24, 2019
 
     driver.find_element_by_xpath(username).send_keys(un)
-    driver.find_element_by_xpath(password).send_keys(pw)
+    # driver.find_element_by_xpath(password).send_keys(pw)
+    #   update September 17, 2019
+    # WebDriverWait(driver, SLEEP_TIME).until(
+    #     EC.presence_of_element_located((By.XPATH, password))).send_keys(pw)
+    driver.find_elements_by_xpath(password)[1].send_keys(pw)
 
     # driver.find_element_by_xpath(password).send_keys(u'\ue007')
     # enterLoginButton = WebDriverWait(driver, SLEEP_TIME).until(

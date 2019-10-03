@@ -1,0 +1,40 @@
+#############################################################
+TAA Hokkaido Errors: 
+
+Data Collection lasted for 3 minutes and 1.6 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 26. September 2019 05:30AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+114269856, 
+
+Shuppin: 
+
+7169, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114269856, 
+
+Shuppin: 
+
+7169, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

@@ -1,0 +1,40 @@
+#############################################################
+USS RNagoya Errors: 
+
+Data Collection lasted for 7 minutes and 58.0 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 17. September 2019 06:30AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+114114435, 
+
+Shuppin: 
+
+30033, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114114435, 
+
+Shuppin: 
+
+30033, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

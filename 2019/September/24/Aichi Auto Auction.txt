@@ -1,0 +1,40 @@
+#############################################################
+Aichi Auto Auction Errors: 
+
+Data Collection lasted for 1 minute and 23.3 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 24. September 2019 07:45AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114265714, 
+
+Shuppin: 
+
+360, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+114263959, 
+
+Shuppin: 
+
+268, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

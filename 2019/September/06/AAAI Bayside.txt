@@ -1,0 +1,40 @@
+#############################################################
+AAAI Bayside Errors: 
+
+Data Collection lasted for 5 minutes and 55.5 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Friday, 06. September 2019 05:25AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+113903111, 
+
+Shuppin: 
+
+3729, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+113903024, 113872053, 113896279, 
+
+Shuppin: 
+
+2086, 5512, 2208, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

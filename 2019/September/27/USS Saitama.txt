@@ -1,0 +1,40 @@
+#############################################################
+USS Saitama Errors: 
+
+Data Collection lasted for 2 minutes and 59.7 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Friday, 27. September 2019 05:21AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+114318399, 114325980, 
+
+Shuppin: 
+
+6513, 2170, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114318395, 114318399, 114325980, 
+
+Shuppin: 
+
+6508, 6513, 2170, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

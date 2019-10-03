@@ -1,0 +1,40 @@
+#############################################################
+NAA Nagoya Errors: 
+
+Data Collection lasted for 2 minutes and 28.3 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 19. September 2019 05:21AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114131971, 114142038, 114132004, 
+
+Shuppin: 
+
+4514, 4187, 6508, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114131938, 
+
+Shuppin: 
+
+4115, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------
