@@ -1,0 +1,36 @@
+#############################################################
+KCAA Fukuoka Errors: 
+
+Data Collection lasted for 14.6 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 31. October 2019 05:59AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114971318, 114971242, 
+
+Shuppin: 
+
+7013, 473, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

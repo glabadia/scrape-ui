@@ -12,7 +12,7 @@ from errorCheck import hasNoResults
 import asyncio
 import gc
 WAIT_TIME: int = 5  # 10
-SLEEP_TIME: int = 3  # 5
+SLEEP_TIME: int = 5  # 3  # 5 --Changed in Feb 19, 2020
 dcTimeLimit: int = 3000
 
 # houses: one, sorted, active

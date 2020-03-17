@@ -1,0 +1,44 @@
+#############################################################
+CAA Orix Kobe (Tender) Errors: 
+
+Data Collection lasted for 1 minute and 2.7 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 19. November 2019 05:47AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115339061, 
+
+Shuppin: 
+
+46, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+115338947, 
+
+Shuppin: 
+
+213, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+115338947, 
+
+Shuppin: 
+
+213, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

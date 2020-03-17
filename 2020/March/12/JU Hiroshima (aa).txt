@@ -1,0 +1,44 @@
+#############################################################
+JU Hiroshima (aa) Errors: 
+
+Data Collection lasted for 7 minutes and 16.8 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 12. March 2020 05:38AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117385435, 
+
+Shuppin: 
+
+4389, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+117327343, 
+
+Shuppin: 
+
+4045, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117327189, 117348647, 
+
+Shuppin: 
+
+235, 5033, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

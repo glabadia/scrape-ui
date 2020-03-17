@@ -1,0 +1,36 @@
+#############################################################
+Isuzu Kyushu Errors: 
+
+Data Collection lasted for 1 minute and 2.5 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 30. January 2020 05:51AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+116522182, 116547313, 116522924, 116522183, 116522220, 
+
+Shuppin: 
+
+1128, 1148, 6066, 1135, 6064, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

@@ -1,0 +1,36 @@
+#############################################################
+Honda Tokyo Errors: 
+
+Data Collection lasted for 4 minutes and 27.2 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 11. November 2019 05:27AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115185858, 115185776, 
+
+Shuppin: 
+
+20265, 20098, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

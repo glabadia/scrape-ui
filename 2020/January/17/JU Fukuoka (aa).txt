@@ -1,0 +1,44 @@
+#############################################################
+JU Fukuoka (aa) Errors: 
+
+Data Collection lasted for 3 minutes and 42.2 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Friday, 17. January 2020 06:07AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116266868, 116296736, 
+
+Shuppin: 
+
+7534, 3105, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+116249265, 
+
+Shuppin: 
+
+4317, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+116249265, 
+
+Shuppin: 
+
+4317, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

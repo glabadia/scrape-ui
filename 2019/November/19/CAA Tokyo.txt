@@ -1,0 +1,40 @@
+#############################################################
+CAA Tokyo Errors: 
+
+Data Collection lasted for 6 minutes and 46.4 seconds.
+Error checking completed within 0.1 seconds.
+Finished checking on Tuesday, 19. November 2019 06:24AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115325491, 115354788, 115354895, 
+
+Shuppin: 
+
+8001, 360, 7558, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+115354701, 
+
+Shuppin: 
+
+30306, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

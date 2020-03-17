@@ -1,0 +1,36 @@
+#############################################################
+CAA LUM Kobe (Tender) Errors: 
+
+Data Collection lasted for 1 minute and 8.6 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 17. October 2019 06:02AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114685844, 114685824, 
+
+Shuppin: 
+
+6760, 6547, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

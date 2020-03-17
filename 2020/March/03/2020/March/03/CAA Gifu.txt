@@ -1,0 +1,40 @@
+#############################################################
+CAA Gifu Errors: 
+
+Data Collection lasted for 4 minutes and 7.6 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 03. March 2020 06:41AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117153227, 117152848, 
+
+Shuppin: 
+
+75117, 30093, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117190813, 117161344, 
+
+Shuppin: 
+
+30305, 1005, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

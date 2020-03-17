@@ -111,7 +111,7 @@ def destruct_basic(driver, speed):
             'span', attrs={'class': 'text-bold pull-left width-100per'}).text.strip()
 
         chassisPrefix = basic.find(
-            'a', attrs={'class': 'text-primary pull-left width-70per chassis-amkenya chassis-wd'}).text.strip()
+            'a', attrs={'class': 'text-primary pull-left width-100per chassis-amkenya chassis-wd'}).text.strip()
 
         # transColorFuel = basic.find(
         #     'span', attrs={'class': 'pull-left width-55per'}).text.strip()

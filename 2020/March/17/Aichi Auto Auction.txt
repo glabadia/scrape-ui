@@ -1,0 +1,40 @@
+#############################################################
+Aichi Auto Auction Errors: 
+
+Data Collection lasted for 1 minute and 38.4 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 17. March 2020 07:20AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117489860, 
+
+Shuppin: 
+
+317, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117489651, 
+
+Shuppin: 
+
+129, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

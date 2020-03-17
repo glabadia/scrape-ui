@@ -1,0 +1,36 @@
+#############################################################
+JU Kanagawa (aa) Errors: 
+
+Data Collection lasted for 1 minute and 25.2 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 27. February 2020 05:26AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117067438, 117086610, 
+
+Shuppin: 
+
+3531, 26, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

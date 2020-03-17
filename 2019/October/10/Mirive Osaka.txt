@@ -1,0 +1,44 @@
+#############################################################
+Mirive Osaka Errors: 
+
+Data Collection lasted for 1 minute and 10.8 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 10. October 2019 05:26AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114521077, 
+
+Shuppin: 
+
+50082, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+114521336, 
+
+Shuppin: 
+
+90197, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114521336, 
+
+Shuppin: 
+
+90197, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

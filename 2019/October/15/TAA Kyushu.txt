@@ -1,0 +1,40 @@
+#############################################################
+TAA Kyushu Errors: 
+
+Data Collection lasted for 9 minutes and 36.7 seconds.
+Error checking completed within 0.1 seconds.
+Finished checking on Tuesday, 15. October 2019 07:25AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114659602, 
+
+Shuppin: 
+
+3565, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114632274, 
+
+Shuppin: 
+
+61005, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

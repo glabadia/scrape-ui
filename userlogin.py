@@ -43,7 +43,7 @@ def userLoginATNZ(un, pw, driver):
     # Chrome
     # Firefox
     # username = "//input[@id='UserId']"
-    username = "//input[@placeholder='Email']"  # June 26, 2019
+    username = "//input[@placeholder='Email Address']"  # June 26, 2019
     # username = "//input[@placeholder='Username']"  # June 24, 2019
     # password = "//input[@id='Password']"
     # password = "//input[@placeholder='Password']"
@@ -53,7 +53,11 @@ def userLoginATNZ(un, pw, driver):
     # enterLoginPath = "//input[@value='Login']"
     # enterLoginPath = "//button[@id='btnlogin']"  # June 24,2019
     # June 26,2019
-    enterLoginPath = "//input[@class='btn btn-sm btn-kiwi-orange px-4 mb-3']"
+    # enterLoginPath = "//input[@class='btn btn-sm btn-kiwi-orange px-4 mb-3']"pypypython scraper_ui.py
+
+    # December 18,2019
+    enterLoginPath = "//input[@class='btn btn-sm btn-kiwi-orange px-5 py-0 rounded-0 mb-3']"
+
 
     loginPath = "//button[@id='login-btn']"  # June 24,2019
     # loginButton = WebDriverWait(driver, SLEEP_TIME).until(

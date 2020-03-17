@@ -1,0 +1,36 @@
+#############################################################
+JU Tokyo Errors: 
+
+Data Collection lasted for 2 minutes and 31.1 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 27. January 2020 06:03AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116460989, 116473177, 
+
+Shuppin: 
+
+143, 168, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

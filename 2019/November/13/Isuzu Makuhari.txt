@@ -1,0 +1,36 @@
+#############################################################
+Isuzu Makuhari Errors: 
+
+Data Collection lasted for 2 minutes and 39.8 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 13. November 2019 06:00AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+115213961, 115238409, 115228192, 115219832, 115238367, 115229719, 
+
+Shuppin: 
+
+1185, 3519, 3036, 1081, 1212, 1258, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

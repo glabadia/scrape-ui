@@ -1,0 +1,44 @@
+#############################################################
+NAA Nagoya Errors: 
+
+Data Collection lasted for 2 minutes and 16.1 seconds.
+Error checking completed within 0.1 seconds.
+Finished checking on Thursday, 14. November 2019 07:10AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115235121, 115253492, 
+
+Shuppin: 
+
+6537, 52, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+115234749, 
+
+Shuppin: 
+
+15, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+115234749, 
+
+Shuppin: 
+
+15, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

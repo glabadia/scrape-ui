@@ -1,0 +1,36 @@
+#############################################################
+TAA Kinki Errors: 
+
+Data Collection lasted for 6 minutes and 7.8 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 25. February 2020 06:00AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116983414, 117041545, 117009051, 117041333, 117041369, 
+
+Shuppin: 
+
+24, 50266, 3069, 3328, 3372, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

@@ -1,0 +1,36 @@
+#############################################################
+Honda Kansai Errors: 
+
+Data Collection lasted for 1 minute and 33.2 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 06. January 2020 06:16AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116062812, 
+
+Shuppin: 
+
+70045, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

@@ -1,0 +1,40 @@
+#############################################################
+HERO Errors: 
+
+Data Collection lasted for 2 minutes and 20.1 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 26. February 2020 05:47AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117048495, 117048177, 
+
+Shuppin: 
+
+52, 2006, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117072357, 117048427, 
+
+Shuppin: 
+
+342, 3504, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

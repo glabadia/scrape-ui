@@ -1,0 +1,36 @@
+#############################################################
+NAA Osaka Errors: 
+
+Data Collection lasted for 1 minute and 30.7 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 14. November 2019 07:01AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115233019, 115232965, 115233113, 115233336, 115253413, 
+
+Shuppin: 
+
+22, 1007, 40, 8007, 91, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

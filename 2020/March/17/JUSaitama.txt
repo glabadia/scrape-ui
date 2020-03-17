@@ -1,0 +1,40 @@
+#############################################################
+JUSaitama Errors: 
+
+Data Collection lasted for 7 minutes and 2.2 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 17. March 2020 07:50AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117482786, 117483081, 117482946, 
+
+Shuppin: 
+
+247, 4558, 3541, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117482502, 
+
+Shuppin: 
+
+2046, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

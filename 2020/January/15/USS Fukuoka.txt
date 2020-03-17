@@ -1,0 +1,48 @@
+#############################################################
+USS Fukuoka Errors: 
+
+Data Collection lasted for 3 minutes and 15.1 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 15. January 2020 06:41AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116252205, 
+
+Shuppin: 
+
+1133, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+116239766, 
+
+Shuppin: 
+
+4026, 
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+116239769, 
+
+Shuppin: 
+
+4030, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+116239769, 
+
+Shuppin: 
+
+4030, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

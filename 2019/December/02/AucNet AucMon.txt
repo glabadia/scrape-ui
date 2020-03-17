@@ -1,0 +1,36 @@
+#############################################################
+AucNet AucMon Errors: 
+
+Data Collection lasted for 14.4 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 02. December 2019 05:40AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115594829, 115594419, 
+
+Shuppin: 
+
+10515, 4398, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

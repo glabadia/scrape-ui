@@ -1,0 +1,40 @@
+#############################################################
+CAA Tokyo Errors: 
+
+Data Collection lasted for 52.6 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 03. December 2019 07:23AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+115597430, 
+
+Shuppin: 
+
+7509, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+115597430, 
+
+Shuppin: 
+
+7509, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

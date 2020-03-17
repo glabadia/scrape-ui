@@ -1,0 +1,36 @@
+#############################################################
+JUSaitama Errors: 
+
+Data Collection lasted for 5 minutes and 53.7 seconds.
+Error checking completed within 0.1 seconds.
+Finished checking on Tuesday, 05. November 2019 08:13AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115053157, 115053158, 115053144, 115052811, 115065088, 
+
+Shuppin: 
+
+5148, 5149, 5130, 1549, 5217, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

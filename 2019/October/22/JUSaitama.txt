@@ -1,0 +1,36 @@
+#############################################################
+JUSaitama Errors: 
+
+Data Collection lasted for 7 minutes and 20.1 seconds.
+Error checking completed within 0.1 seconds.
+Finished checking on Tuesday, 22. October 2019 05:58AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114778352, 114776074, 114775832, 
+
+Shuppin: 
+
+329, 4052, 1523, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

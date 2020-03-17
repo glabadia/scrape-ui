@@ -1,0 +1,36 @@
+#############################################################
+CAA Gifu Errors: 
+
+Data Collection lasted for 4 minutes and 10.3 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 22. October 2019 05:38AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114773188, 114773206, 
+
+Shuppin: 
+
+1062, 25, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

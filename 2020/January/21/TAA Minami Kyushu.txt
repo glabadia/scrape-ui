@@ -1,0 +1,40 @@
+#############################################################
+TAA Minami Kyushu Errors: 
+
+Data Collection lasted for 1 minute and 42.1 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 21. January 2020 05:27AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116328015, 
+
+Shuppin: 
+
+4017, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+116355142, 116357609, 
+
+Shuppin: 
+
+3044, 3084, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

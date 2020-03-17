@@ -1,0 +1,40 @@
+#############################################################
+IAA Osaka Errors: 
+
+Data Collection lasted for 3 minutes and 1.7 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Wednesday, 11. March 2020 05:37AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117361884, 
+
+Shuppin: 
+
+6076, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117353723, 
+
+Shuppin: 
+
+9042, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

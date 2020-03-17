@@ -1,0 +1,36 @@
+#############################################################
+JU Hiroshima (aa) Errors: 
+
+Data Collection lasted for 2 minutes and 17.5 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 27. February 2020 05:38AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117049252, 117049234, 
+
+Shuppin: 
+
+5005, 4097, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

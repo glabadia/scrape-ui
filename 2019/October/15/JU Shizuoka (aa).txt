@@ -1,0 +1,44 @@
+#############################################################
+JU Shizuoka (aa) Errors: 
+
+Data Collection lasted for 1 minute and 43.4 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 15. October 2019 06:18AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+114659093, 
+
+Shuppin: 
+
+6512, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+114638390, 
+
+Shuppin: 
+
+6506, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+114638390, 
+
+Shuppin: 
+
+6506, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

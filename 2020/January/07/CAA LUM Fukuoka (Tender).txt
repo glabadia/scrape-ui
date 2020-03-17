@@ -1,0 +1,36 @@
+#############################################################
+CAA LUM Fukuoka (Tender) Errors: 
+
+Data Collection lasted for 37.7 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 07. January 2020 06:31AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+No issues
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+116067924, 116067918, 
+
+Shuppin: 
+
+71099, 71086, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

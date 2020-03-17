@@ -1,0 +1,44 @@
+#############################################################
+JU Kanagawa (aa) Errors: 
+
+Data Collection lasted for 2 minutes and 4.5 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Thursday, 21. November 2019 06:07AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115378259, 
+
+Shuppin: 
+
+4056, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+115399311, 
+
+Shuppin: 
+
+3623, 
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+115399311, 
+
+Shuppin: 
+
+3623, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

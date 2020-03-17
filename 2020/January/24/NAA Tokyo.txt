@@ -1,0 +1,36 @@
+#############################################################
+NAA Tokyo Errors: 
+
+Data Collection lasted for 1 minute and 40.7 seconds.
+Error checking completed within 0.1 seconds.
+Finished checking on Friday, 24. January 2020 05:43AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116414863, 116433259, 116433280, 
+
+Shuppin: 
+
+31, 1007, 2015, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

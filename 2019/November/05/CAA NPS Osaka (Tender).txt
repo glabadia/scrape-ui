@@ -1,0 +1,36 @@
+#############################################################
+CAA NPS Osaka (Tender) Errors: 
+
+Data Collection lasted for 32.3 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 05. November 2019 07:36AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+115049744, 115049732, 115049730, 115049813, 115049805, 
+
+Shuppin: 
+
+1225, 1208, 1205, 1629, 1310, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

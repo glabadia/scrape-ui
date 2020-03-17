@@ -1,0 +1,40 @@
+#############################################################
+TAA Shikoku Errors: 
+
+Data Collection lasted for 4 minutes and 39.1 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Tuesday, 10. March 2020 05:36AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+117270205, 117323376, 
+
+Shuppin: 
+
+4193, 242, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+117330365, 
+
+Shuppin: 
+
+5020, 
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------

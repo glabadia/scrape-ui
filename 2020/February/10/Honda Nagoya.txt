@@ -1,0 +1,36 @@
+#############################################################
+Honda Nagoya Errors: 
+
+Data Collection lasted for 1 minute and 27.6 seconds.
+Error checking completed within 0.0 seconds.
+Finished checking on Monday, 10. February 2020 05:21AM 
+#############################################################
+
+No Main Image:
+No issues
+-------------------------------------------------------------
+Japanese Characters:
+116715709, 
+
+Shuppin: 
+
+55194, 
+-------------------------------------------------------------
+Unknown Year/Make/Model:
+No issues
+-------------------------------------------------------------
+Unknown Chassis Prefix:
+No issues
+-------------------------------------------------------------
+No Transmission/Color/Fuel Type:
+No issues
+-------------------------------------------------------------
+No Equipment:
+No issues
+-------------------------------------------------------------
+Additional Photos Show 'No Foto':
+No issues
+-------------------------------------------------------------
+No Auction Sheet:
+No issues
+-------------------------------------------------------------
